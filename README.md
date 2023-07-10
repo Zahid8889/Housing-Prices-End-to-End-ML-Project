@@ -4,7 +4,8 @@ This dataset is based on  data from 1990 California Census.
 It is not Recent But it Has Many Qualities for Learning.  
 ### Let us see the Visualisation of the dataset over the Callifornia map representing population and the median house price.
 
-![](./images/California_housing_prices_plot.jpg)
+![California_housing_prices_plot](https://github.com/Zahid8889/Housing-Prices-End-to-End-ML-Project/assets/102400053/93179756-e3f1-4a23-aec5-a23b8c9f9cce)
+
 <hr>  
 The Features of the Dataset are:-  
 
@@ -20,9 +21,11 @@ The Features of the Dataset are:-
 -   ocean_proximity         
 ### Quick Histogram visualization of the dataset:-  
 
-![](./images/Attribute%20Histogram%20Plot.jpg)
+![Attribute Histogram Plot](https://github.com/Zahid8889/Housing-Prices-End-to-End-ML-Project/assets/102400053/176185d3-29d3-46d4-98ee-0b56682ff68a)
+
 ### The Scatter Matrix of all the features is:- 
 
-![](./images/Scatter%20matrix%20Plot.jpg)
+![Scatter matrix Plot](https://github.com/Zahid8889/Housing-Prices-End-to-End-ML-Project/assets/102400053/41ec37e4-f95c-42ad-b85b-fd17c7282978)
+
 
 
