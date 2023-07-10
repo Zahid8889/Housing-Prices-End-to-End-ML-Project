@@ -20,7 +20,6 @@ The Features of the Dataset are:-
 -   ocean_proximity         
 ### Quick Histogram visualization of the dataset:-  
 
-
 ![](./images/Attribute%20Histogram%20Plot.jpg)
 ### The Scatter Matrix of all the features is:- 
 
